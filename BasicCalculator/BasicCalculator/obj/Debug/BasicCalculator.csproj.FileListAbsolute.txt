@@ -1,0 +1,14 @@
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\BasicCalculator\bin\Debug\CalculatorPrivateAssembly.dll
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\BasicCalculator\bin\Debug\CalculatorPrivateAssembly.pdb
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Form1.resources
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CopyComplete
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb

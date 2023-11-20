@@ -1,0 +1,6 @@
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\CalculatorPrivateAssembly\bin\Debug\CalculatorPrivateAssembly.dll
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\CalculatorPrivateAssembly\bin\Debug\CalculatorPrivateAssembly.pdb
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.csproj.AssemblyReference.cache
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.csproj.CoreCompileInputs.cache
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.dll
+C:\Users\deguzman.274522\Source\Repos\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.pdb
